@@ -1,0 +1,25 @@
+# Compilados e arquivos binários do Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Pastas de saída de compilação
+bin/
+build/
+target/
+
+# Configurações do Eclipse IDE
+.settings/
+.classpath
+.project
+.metadata/
+
+# Arquivos temporários do Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Logs e arquivos de depuração
+*.log
+.recommenders/
